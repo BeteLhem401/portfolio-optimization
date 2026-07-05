@@ -21,3 +21,7 @@ no missing values). Completed:
   (all stationary) - confirms ARIMA differencing parameter d=1
 - Risk metrics: VaR (95%) and annualized Sharpe Ratio per asset
 - Key insights summary written up with actual figures
+## Task 2 Status: Complete
+
+ARIMA(0,1,0) and LSTM models trained and evaluated on TSLA, with LSTM
+outperforming ARIMA across MAE, RMSE, and MAPE by roughly a factor of four.
